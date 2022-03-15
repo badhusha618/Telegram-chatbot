@@ -1,0 +1,58 @@
+c:\users\badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\bin\Debug\Telegram Bot System.exe.config
+c:\users\badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\bin\Debug\Telegram Bot System.exe
+c:\users\badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\bin\Debug\Telegram Bot System.pdb
+c:\users\badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\bin\Debug\Newtonsoft.Json.dll
+c:\users\badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\bin\Debug\Telegram.Bot.dll
+c:\users\badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\bin\Debug\Newtonsoft.Json.xml
+c:\users\badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\bin\Debug\Telegram.Bot.xml
+c:\users\badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\obj\Debug\Telegram Bot System.csprojResolveAssemblyReference.cache
+c:\users\badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\obj\Debug\Telegram Bot System.exe
+c:\users\badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\obj\Debug\Telegram Bot System.pdb
+C:\Users\Badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.Core.dll
+C:\Users\Badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.dll
+C:\Users\Badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\Badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.pdb
+C:\Users\Badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.xml
+C:\Users\Badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.Core.xml
+C:\Users\Badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\Badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\Badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\bin\Debug\Telegram Bot System.exe.manifest
+C:\Users\Badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\bin\Debug\Telegram Bot System.application
+C:\Users\Badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\obj\Debug\Telegram Bot System.exe.manifest
+C:\Users\Badhusha\documents\visual studio 2013\Projects\Telegram Bot System\Telegram Bot System\obj\Debug\Telegram Bot System.application
+G:\Telegram Bot System\Telegram Bot System\bin\Debug\Telegram Bot System.exe.config
+G:\Telegram Bot System\Telegram Bot System\bin\Debug\Telegram Bot System.exe.manifest
+G:\Telegram Bot System\Telegram Bot System\bin\Debug\Telegram Bot System.application
+G:\Telegram Bot System\Telegram Bot System\bin\Debug\Telegram Bot System.exe
+G:\Telegram Bot System\Telegram Bot System\bin\Debug\Telegram Bot System.pdb
+G:\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.Auth.dll
+G:\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+G:\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.Core.dll
+G:\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.dll
+G:\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.PlatformServices.dll
+G:\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.YouTube.v3.dll
+G:\Telegram Bot System\Telegram Bot System\bin\Debug\Newtonsoft.Json.dll
+G:\Telegram Bot System\Telegram Bot System\bin\Debug\Telegram.Bot.dll
+G:\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.pdb
+G:\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.xml
+G:\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.Auth.pdb
+G:\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.Auth.xml
+G:\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.Core.pdb
+G:\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.Core.xml
+G:\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.YouTube.v3.pdb
+G:\Telegram Bot System\Telegram Bot System\bin\Debug\Google.Apis.YouTube.v3.xml
+G:\Telegram Bot System\Telegram Bot System\bin\Debug\Newtonsoft.Json.xml
+G:\Telegram Bot System\Telegram Bot System\bin\Debug\Telegram.Bot.xml
+G:\Telegram Bot System\Telegram Bot System\obj\Debug\Telegram Bot System.csprojAssemblyReference.cache
+G:\Telegram Bot System\Telegram Bot System\obj\Debug\Telegram Bot System.csproj.CoreCompileInputs.cache
+G:\Telegram Bot System\Telegram Bot System\obj\Debug\Telegram Bot System.exe.manifest
+G:\Telegram Bot System\Telegram Bot System\obj\Debug\Telegram Bot System.application
+G:\Telegram Bot System\Telegram Bot System\obj\Debug\Telegram Bot System.csproj.CopyComplete
+G:\Telegram Bot System\Telegram Bot System\obj\Debug\Telegram Bot System.exe
+G:\Telegram Bot System\Telegram Bot System\obj\Debug\Telegram Bot System.pdb
